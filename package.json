@@ -1,5 +1,5 @@
 {
-  "name": "express-json-error-handler",
+  "name": "express-body-parser-json-error-handler",
   "version": "0.1.0",
   "description": "Error handler for body-parser json",
   "main": "index.js",
