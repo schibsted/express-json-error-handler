@@ -1,0 +1,22 @@
+{
+  "name": "express-json-error-handler",
+  "version": "0.1.0",
+  "description": "Error handler for body-parser json",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schibsted/express-json-error-handler.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-schibsted": "^3.1.0"
+  },
+  "peerDependencies": {
+    "express-api-formatter": "^0.1.0"
+  }
+}
